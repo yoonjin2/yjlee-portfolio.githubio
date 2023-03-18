@@ -18,7 +18,7 @@ export default function ContactMe({}: Props) {
         handleSubmit,
     } = useForm<Inputs>();
     const onSubmit: SubmitHandler<Inputs> = (formData) => {
-        window.location.href = `mailto:seehyuk2000@gmail?subject=${formData.subject}&body=Hi my name is ${formData.name}${formData.message}(${formData.email})`;
+        window.location.href = `mailto:yoonjin67@gmail?subject=${formData.subject}&body=Hi my name is ${formData.name}${formData.message}(${formData.email})`;
     };
     
   return (
@@ -30,7 +30,7 @@ export default function ContactMe({}: Props) {
         <div className='flex flex-col space-y-10'>
             <h4 className=' text-3xl font-semibold text-center'>
                 I have got just what you need. {" "}
-                <span className=' decoration-[#F7AB0A]/50 underline'> Let's Talk</span>
+                <span className=' decoration-[#F7AB0A]/50 underline'> Let&apos;s Talk</span>
             </h4>
         </div>
 
@@ -38,17 +38,17 @@ export default function ContactMe({}: Props) {
 
             <div className='flex items-center space-x-5 justify-center'>
                 <PhoneIcon className=' text-[#F7AB0A] h-7 w-7 animate-pulse'/>
-                <p className='text-xl'>+821038021005</p>
+                <p className='text-xl'>+821049182023</p>
             </div>
 
             <div className='flex items-center space-x-5 justify-center'>
                 <EnvelopeIcon className=' text-[#F7AB0A] h-7 w-7 animate-pulse'/>
-                <p className='text-xl'>seehyuk2000@gmail.com</p>
+                <p className='text-xl'>yoonjin67@gmail.com</p>
             </div>
 
             <div className='flex items-center space-x-5 justify-center'>
                 <MapPinIcon  className=' text-[#F7AB0A] h-7 w-7 animate-pulse'/>
-                <p className='text-xl'>Gyeongsanbuk-do Gyeongsan-si</p>
+                <p className='text-xl'>Daegu-si</p>
             </div>
 
             <form onSubmit={handleSubmit(onSubmit)} className='flex flex-col space-y-2 w-fit mx-auto'>

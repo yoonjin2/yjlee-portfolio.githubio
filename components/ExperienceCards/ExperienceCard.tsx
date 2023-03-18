@@ -10,10 +10,20 @@ const images = [
 
 ]
 const miniIcons = [
-    {src: "https://icon-library.com/images/node-js-icon/node-js-icon-8.jpg"},
-    {src: "https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"},
-    {src: "https://v4.material-ui.com/static/logo.png"},
-
+    {src: 'https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png'},
+    {src: 'https://img.icons8.com/color/512/mongodb.png'},
+    {src: 'https://1000logos.net/wp-content/uploads/2017/03/Symbol-Linux.jpg'},
+    {src: 'https://www.nixsolutions.com/uploads/2020/07/Golang.png'},
+    {src: 'https://softwareengineeringdaily.com/wp-content/uploads/2019/01/Kubernetes_New.png'},
+    {src: 'https://helm.sh/img/helm.svg'},
+    {src: 'https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png'},
+    {src: 'https://camo.githubusercontent.com/3abbd2b61fcb74805b2b48e41e2fead897322c39dab533de0231e13ac18e968b/68747470733a2f2f6c696e7578636f6e7461696e6572732e6f72672f7374617469632f696d672f636f6e7461696e6572732e706e67'},
+    {src: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/2560px-Gnu-bash-logo.svg.png'},
+    {src: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpngGRjYX1ca7qAADU3K6eGLj7ShQE3L2otdzfryl_Y9Ht2QRoQKYQbsXd36XIxMbYOw0&usqp=CAU'},
+    {src: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png'},
+    {src: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png'},
+    {src: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png'},
+    {src: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png'},
 ]
 
 export default function ExperienceCard({}: Props) {
@@ -48,10 +58,10 @@ export default function ExperienceCard({}: Props) {
                     
                 ))}
             </div>
-            <p className=' uppercase py-5 text-gray-300'> 2022.06 - now</p>
+            <p className=' uppercase py-5 text-gray-300'> 2021.03-2022.07</p>
 
             <ul className=' list-disc space-y-1 text-lg'>
-                <li>We created Car Remote and it can be remote any cars <br /> which is a install our backend program </li>
+                <li> We created Migration Interface for Docker, <br /> We also created Remote Car by EdgeCPS Project(ETRI)  </li>
             </ul>
         </div>
     </article>

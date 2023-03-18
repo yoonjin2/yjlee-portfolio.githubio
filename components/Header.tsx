@@ -26,22 +26,22 @@ export default function Header({}: Props) {
         
             {/* Social Icons */}
             <SocialIcon 
-            url='https://www.linkedin.com/in/akhmadkholmurodov' 
+            url='https:https://www.linkedin.com/in/%EC%9C%A4%EC%A7%84-%EC%9D%B4-48b882263/' 
             fgColor='gray'
             bgColor='transparent'
            />
             <SocialIcon 
-            url='https://instagram.com/joseehyuk' 
+            url='https://instagram.com/crazy_embedded_linux' 
             fgColor='gray'
             bgColor='transparent'
             />
             <SocialIcon 
-            url='https://github.com/AkhmadKholmurodov'
+            url='https://github.com/yoonjin2'
             fgColor='gray'
             bgColor='transparent'
             />
             <SocialIcon 
-            url='https://telegram.org/AkhmadKholmurodov' 
+            url='https://www.acmicpc.net/user/yoonjin67' 
             fgColor='gray'
             bgColor='transparent'
             />

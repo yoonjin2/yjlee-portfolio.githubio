@@ -7,24 +7,20 @@ type Props = {
 
 const Urls = [
     {src: "https://www.svgrepo.com/show/303251/mysql-logo.svg"},
-    {src: "https://cdn.iconscout.com/icon/free/png-256/graphql-3521468-2944912.png"},
-    {src: "https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react_color-512.png"},
-    {src: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/MetaMask_Fox.svg/1200px-MetaMask_Fox.svg.png'},
-    {src: 'https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png'},
-    {src: 'https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png'},
     {src: 'https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png'},
-    {src: "https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png"},
-    {src: "https://cdn-icons-png.flaticon.com/512/919/919832.png"},
-    {src: "https://sllearnengine.blob.core.windows.net/material-images/087a9b79a3094d4382bcdbfdb6718734-JS_1.png"},
-    {src: 'https://cdn-icons-png.flaticon.com/512/919/919827.png'},
-    {src: 'https://cdn-icons-png.flaticon.com/512/919/919826.png'},
-    {src: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png'},
     {src: 'https://img.icons8.com/color/512/mongodb.png'},
-    {src: 'https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png'},
-    {src: 'https://cdn.icon-icons.com/icons2/2407/PNG/512/aws_icon_146074.png'},
-    {src: 'https://cdn.iconscout.com/icon/premium/png-256-thumb/mern-stack-5363121-4488910.png'},
-    {src: 'https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png'},
-    {src: 'https://v4.material-ui.com/static/logo.png'}
+    {src: 'https://1000logos.net/wp-content/uploads/2017/03/Symbol-Linux.jpg'},
+    {src: 'https://www.nixsolutions.com/uploads/2020/07/Golang.png'},
+    {src: 'https://softwareengineeringdaily.com/wp-content/uploads/2019/01/Kubernetes_New.png'},
+    {src: 'https://helm.sh/img/helm.svg'},
+    {src: 'https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png'},
+    {src: 'https://camo.githubusercontent.com/3abbd2b61fcb74805b2b48e41e2fead897322c39dab533de0231e13ac18e968b/68747470733a2f2f6c696e7578636f6e7461696e6572732e6f72672f7374617469632f696d672f636f6e7461696e6572732e706e67'},
+    {src: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/2560px-Gnu-bash-logo.svg.png'},
+    {src: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpngGRjYX1ca7qAADU3K6eGLj7ShQE3L2otdzfryl_Y9Ht2QRoQKYQbsXd36XIxMbYOw0&usqp=CAU'},
+    {src: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png'},
+    {src: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png'},
+    {src: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png'},
+    {src: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png'},
 
 
 ]

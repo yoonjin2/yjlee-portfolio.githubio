@@ -1,0 +1,21 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: yjleecomnew-deployment
+  labels:
+    app: yjleecomnew
+spec:
+  replicas: 5
+  selector:
+    matchLabels:
+      app: yjleecomnew
+  template:
+    metadata:
+      labels:
+        app: yjleecomnew
+    spec:
+      containers:
+      - name: yjleecomnew
+        image: yoonjin67/yjleecomnew
+        ports:
+        - containerPort: 80

@@ -27,10 +27,9 @@ export default function About({}: Props) {
         
         <div className=' space-y-10 px-0 md:px-10'>
             <h4 className=' text-4xl justify-center text-center font-semibold'>Here is a <span className=' underline decoration-[#F7AB0A]'>little</span> backgraund</h4>
-            <p className=' text-sm'>I was born in the year 2000 and youngest in a family of six. I grew up in a vibrant community and had a happy childhood, filled with love and support from my parents and siblings.
-                As I grew older, my love for technology led my to pursue a career in software engineering. I excelled in my studies and quickly landed a job at a reputable tech firm.
-                Outside of work, I am an avid sports enthusiast. I love playing football and pingpong, and often spend his weekends on the field or in the local pingpong club. I also enjoy trying new foods , with a particular love for traditional cuisine and coffee.
-                Despite his busy schedule, I value the importance of social connections and has many close friends. I enjoy spending time with them, exploring new places, and sharing my love for sports and food with those around me.</p>
+            <p className=' text-sm'>I was born in the year 2002. I Love Computer Science. Tea Lover, and Linux/OSS Lover. Interested in Philosophy, I always had to think about myself,
+            with some kinda personal reason, but that helped me to recover faster and faster.
+            I Welcome any contacts for me, Please mail me if you are interested in me.</p>
         </div>
     </motion.div>
   )
