@@ -21,12 +21,12 @@ export default function About({}: Props) {
         }}
         whileInView={{opacity: 1, x:0}}
         viewport={{once:true}}
-        src="https://lh3.googleusercontent.com/IIO99SOIYlmzsjpdTBWhjv5eHpd-xJwifTeAauCHYOReaAOUYsDKno6YoS8h_OSGNECUV2Vb8Gf1dFwjk1k9Uh79gTl3D1OT2atkprVWGc72JZg58IGhfyPZlNly06Xee3ColI2d7oldd4Q-rI9qDia6MWiu7yx7c8MYOGj7fQyttWc5B7CTOZakCFmCG7DAgS86pCsBKfIDd04zAEnctnd5ObnzwIOShkqEEnv6uNrY4M9OXGBdXIi72i66FNJlfUNcpeWPxKR7nBTFhJexflYYkJS_LiQ_sWwnlDLSBOwVfbaqWRR6md6ltSSrjQ3WXFvxrh7pajtzYSSH-WxLBuX1rRSypNwIDDebLvNr3N4e-_vUQ59V9FUnTq-NfMXpzV6qZPCbbp4AvcAcfY5fCZ_e0aX8xYnzB7it4xWc64cBBjntGyPOfZdYS_p2tM_F8uTDBpOEy6N7RsN2ZGqeQHuM0issBnez51nV2JT_D2m0vFyUb2TUs_4_lFVsGb9ulnhBs4oht5W1bq75ilpP1JOuuheWM2ynjBp_xuMtqtTQIM-Lxq_t1Fl9VCKuUa2nMkUCiuZ-rd-XOcAzuv5y13L_ynf_56yP7oPtC77PLyN6TIgMrYFbo1OjjAJGI_Wh5MEFPdKZuoK7vDCsXS9YXjn4sfFxQXr6djuG1PoOdqhyelow_zFkNteNvgwuNCC-IaOvUBfIMeO9BTI4hhhp1QgfiQCQY-EW_hIMgXzxruOYQxaMS8MHa8SOiHu3rTgPAXMX4luYcj4mBB47St3J68KUSPKhOClUqnuMDWI9p83UUJJPriveGsD82T47ogmysvp_NjpiNg18XoV5SIWIHnffZtymuzkBQ5fIHWPaJ0FCQzqvPQ_8LeAMegUrkQ5qwxngTqYvMd7jXzwJSAZn-tCHklD460RZi0KZcp2L5brI=w1718-h1642-no?authuser=0"
+        src="https://avatars.githubusercontent.com/u/20538540?s=400&u=98b4081f9ce12ecd77e5dac7f4989579601eac3a&v=4"
         className=" -mb-20 md:mb-0 flex-shrink-0 w-56 h-56 rounded-full object-cover md:rounded-t-3xl md:w-64 md:h-95 xl:w-[500px] xl:h-[600px]"
         />
         
         <div className=' space-y-10 px-0 md:px-10'>
-            <h4 className=' text-4xl justify-center text-center font-semibold'>Here is a <span className=' underline decoration-[#F7AB0A]'>little</span> backgraund</h4>
+            <h4 className=' text-4xl justify-center text-center font-semibold'>Here is a <span className=' underline decoration-[#F7AB0A]'>little</span> background</h4>
             <p className=' text-sm'>I was born in the year 2002. I Love Computer Science. Tea Lover, and Linux/OSS Lover. Interested in Philosophy, I always had to think about myself,
             with some kinda personal reason, but that helped me to recover faster and faster.
             I Welcome any contacts for me, Please mail me if you are interested in me.</p>
